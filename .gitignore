@@ -1,0 +1,33 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+
+
+# Executables
+*.exe
+*.out
+*.app
+
+build-videoCapture-Desktop_Qt_5_12_12_MinGW_64_bit_qt_qt5-Debug/
